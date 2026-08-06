@@ -1,0 +1,86 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+
+    <!-- Outer Teal Circular Ring Frame -->
+    <path
+        android:fillColor="#00695C"
+        android:pathData="M54,18 C72,18 86,32 86,50 C86,65 74,78 59,81 C57,81 57,78 59,78 C72,75 82,64 82,50 C82,34 69,22 54,22 C39,22 26,34 26,50 C26,63 35,74 48,77 C50,78 50,81 48,80 C32,77 22,64 22,50 C22,32 36,18 54,18 Z" />
+
+    <!-- Center Main Golden Tower (Pitched Roof) -->
+    <path
+        android:fillColor="#FF8F00"
+        android:pathData="M54,23 L46,30 V68 H62 V30 Z" />
+    <path
+        android:fillColor="#FFA000"
+        android:pathData="M54,23 L54,68 H62 V30 Z" />
+
+    <!-- Left Golden Tower -->
+    <path
+        android:fillColor="#FF8F00"
+        android:pathData="M44,36 L36,41 V68 H44 Z" />
+
+    <!-- Right Golden Tower -->
+    <path
+        android:fillColor="#FF8F00"
+        android:pathData="M64,36 L72,41 V68 H64 Z" />
+
+    <!-- Tower Windows (Center Tower) -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M49,35 h4 v4 h-4 z  M55,35 h4 v4 h-4 z
+                          M49,42 h4 v4 h-4 z  M55,42 h4 v4 h-4 z
+                          M49,49 h4 v4 h-4 z  M55,49 h4 v4 h-4 z" />
+
+    <!-- Left Tower Windows -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M38,46 h3 v3 h-3 z  M38,52 h3 v3 h-3 z  M38,58 h3 v3 h-3 z" />
+
+    <!-- Right Tower Windows -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M67,46 h3 v3 h-3 z  M67,52 h3 v3 h-3 z  M67,58 h3 v3 h-3 z" />
+
+    <!-- Center Tower Entrance Door -->
+    <path
+        android:fillColor="#004D40"
+        android:pathData="M51,60 h6 v8 h-6 z" />
+
+    <!-- Left Teal Leaf -->
+    <path
+        android:fillColor="#00695C"
+        android:pathData="M53,68 C45,55 25,52 26,68 C27,76 43,76 53,68 Z" />
+    <path
+        android:fillColor="#004D40"
+        android:pathData="M53,68 C45,58 30,55 30,65 C35,70 47,70 53,68 Z" />
+    <!-- Leaf Center Vein -->
+    <path
+        android:fillColor="#E0F2F1"
+        android:pathData="M53,68 C43,62 33,60 28,62 C34,65 44,66 53,68 Z" />
+
+    <!-- Right Teal Leaf -->
+    <path
+        android:fillColor="#00695C"
+        android:pathData="M55,68 C63,55 83,52 82,68 C81,76 65,76 55,68 Z" />
+    <path
+        android:fillColor="#004D40"
+        android:pathData="M55,68 C63,58 78,55 78,65 C73,70 61,70 55,68 Z" />
+    <!-- Leaf Center Vein -->
+    <path
+        android:fillColor="#E0F2F1"
+        android:pathData="M55,68 C65,62 75,60 80,62 C74,65 64,66 55,68 Z" />
+
+    <!-- Bottom Curved Arch Accent -->
+    <path
+        android:fillColor="#004D40"
+        android:pathData="M24,72 C42,78 66,78 84,72 C80,81 28,81 24,72 Z" />
+
+    <!-- Subtitle Arch Line -->
+    <path
+        android:fillColor="#FF8F00"
+        android:pathData="M28,83 C45,87 63,87 80,83 C78,85 30,85 28,83 Z" />
+
+</vector>
